@@ -6,6 +6,7 @@ Assignment to create a webapp.
 * Name of csv file to be loaded is Corpus.csv, Although new key value pair can be added in the same file.
 * Docker is up and running
 * First Column of csv file will be considered as key and second column will be as value.
+* If multiple similar keys are present, then value of first key will be returned
 
 ## Build Instruction
 
